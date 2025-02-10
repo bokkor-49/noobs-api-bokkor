@@ -1,0 +1,21 @@
+{
+  "websites": {
+    "bokkor49": "https://bokkor49.netlify.app/",
+    "bokkor69": "https://bokkor69.netlify.app/",
+    "artWeb": "https://bokkor-art.vercel.app/"
+  },
+  "apis": {
+    "gfApi": "https://gf-bokkor.onrender.com/gf",
+    "pairApi": "https://love-pair.vercel.app/pair?boy=bokkor&girl=laboni",
+    "albumApi": "https://bokkor-album-api1.onrender.com/album/list",
+    "gptApi": "https://gpt-bokkor.onrender.com/gpt4?text=hi",
+    "artApi": "https://art-bokkor.onrender.com/art?prompt=boy",
+    "tOrD": {
+      "api": "https://t-or-d-bokkor.vercel.app/t",
+      "newTOrDAdd": "https://t-or-d-bokkor.vercel.app/d/add?newDare=more20jaw",
+      "ansCheck": "https://t-or-d-bokkor.vercel.app/t/ans?userAnswer=no",
+      "randomTOrD": "https://t-or-d-bokkor.vercel.app/t/d"
+    },
+    "geminiApi": "https://bokkor-gemini.vercel.app/gemini?chat=hi"
+  }
+}
